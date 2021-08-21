@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>SocialMentions &#8211; Global WordPress Translation Day 3</title>
+	<atom:link href="https://https://https://wptranslationday.org/htmlarchive/gwtd03/htmlarchive/gwtd03/author/socialmentions/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://https://wptranslationday.org/htmlarchive/gwtd03/htmlarchive/gwtd03/</link>
+	<description>September 30th, 2017</description>
+	<lastBuildDate>Fri, 20 Jul 2018 19:30:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.7</generator>
+</channel>
+</rss>

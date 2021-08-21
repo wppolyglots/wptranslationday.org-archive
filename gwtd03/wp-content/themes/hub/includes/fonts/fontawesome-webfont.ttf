@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=http://wptranslationday.org/wp-content/themes/hub/includes/fonts/fontawesome-webfont.ttf">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "http://wptranslationday.org/wp-content/themes/hub/includes/fonts/fontawesome-webfont.ttf";
+		</script>
+
+		<p>You are being redirected to <a href="http://wptranslationday.org/wp-content/themes/hub/includes/fonts/fontawesome-webfont.ttf">http://wptranslationday.org/wp-content/themes/hub/includes/fonts/fontawesome-webfont.ttf</a></p>
+	</body>
+</html>
